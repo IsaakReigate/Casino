@@ -15,6 +15,7 @@ public class Casino {
         
         customerAccount accountOne = new customerAccount("Isaak", 42069);
         menu();
+        
 
     }
 
