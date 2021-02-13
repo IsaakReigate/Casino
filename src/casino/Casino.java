@@ -13,9 +13,9 @@ public class Casino {
 
     public static void main(String[] args) {
         
-        Device myDevice = new Device("12345", "Google Pixel 3A", "Isaak", "Broken Screen", "Any Notes");
+        customerAccount accountOne = new customerAccount("Isaak", 42069);
         menu();
-        
+
     }
 
     public static void menu() {
